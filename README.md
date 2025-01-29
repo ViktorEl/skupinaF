@@ -1,0 +1,2 @@
+# skupinaF
+subory k pisomke
